@@ -1,0 +1,11 @@
+```text
+openai
+langchain
+langchain-community
+gradio
+faiss-cpu
+sentence-transformers
+PyMuPDF
+numpy
+pypdf
+```
